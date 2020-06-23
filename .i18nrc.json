@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "test": "./"
+  },
+  "translations": [
+    "translations/zh-CN.json"
+  ]
+}
+
